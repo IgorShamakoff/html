@@ -1,0 +1,22 @@
+.my_main
+{
+margin: 0px 20%;
+border: 10px solid red;
+border-radius: 5px;
+}
+
+.name
+{
+	text-align: center;
+	font-family: "Comic Sans MS";
+
+}
+.Shamakoff
+{
+display: block;
+margin: 0 auto;
+}
+p
+{
+	text-align: center;
+}
